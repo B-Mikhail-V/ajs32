@@ -1,0 +1,19 @@
+{
+  "name": "@b-mikhail-v/ajs32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Mikhail-V/ajs32.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Mikhail-V/ajs32/issues"
+  },
+  "homepage": "https://github.com/B-Mikhail-V/ajs32#readme"
+}
